@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+asyncpg
+pydantic
+python-dotenv
+redis
+slowapi
+python-multipart
+pydantic-settings
